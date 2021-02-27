@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Scarab",
+      "symbol": "SCARAB",
+      "address": "0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696",
       "chainId": 56,
       "decimals": 18
     },
