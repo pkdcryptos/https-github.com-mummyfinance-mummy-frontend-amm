@@ -22,7 +22,7 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Farms',
+    label: 'Cursed Farms',
     icon: 'FarmIcon',
     href: 'https://mummy.finance/farms'
   },
