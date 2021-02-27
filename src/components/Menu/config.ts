@@ -68,7 +68,7 @@ const config: MenuEntry[] = [
       },
       {
         label: "Blog",
-        href: "https://medium.com/@MummyFinance",
+        href: "https://mummyfinance.medium.com",
       },
     ],
   },
