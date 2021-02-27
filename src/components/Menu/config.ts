@@ -31,31 +31,27 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://mummy.finance/sandpools',
   },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://www.goosedefi.com/lottery'
-  // },
   {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
-      },
-      /* {
-        label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
-      },
-      {
-        label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        href: 'https://pancakeswap.info/token/0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
-      }, */
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x5824bbe60efd1b321abb3975f07388d898da5c9f',
+      },
+      /* {
+        label: 'CoinGecko',
+        href: 'https://www.coingecko.com/en/coins/mummy-finance',
+      },
+      {
+        label: 'CoinMarketCap',
+        href: 'https://coinmarketcap.com/currencies/mummy-finance/',
+      },
+       */
     ]
   },
   {
@@ -79,7 +75,7 @@ const config: MenuEntry[] = [
   /* {
     label: 'Audit by Hacken',
     icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+    href: 'https://mummy.finance/files/hackenAudit.pdf',
   }, */
 ]
 
